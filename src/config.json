@@ -1,0 +1,19 @@
+{
+    "Server": {
+        "host": "?",
+        "port": "8000"
+    },
+    "MongoDB": {
+        "port": 27017,
+        "database": "?"
+    },
+    "PostgreSqlDB": {
+        "port": 5432,
+        "user": "postgres",
+        "database": "?",
+        "password": "?"
+    },
+    "Redis": {
+        "port": 6379
+    }
+}
